@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/petekp/react-webpack-static#readme",
   "devDependencies": {
+    "basscss": "^7.0.0",
+    "css-loader": "^0.15.4",
+    "cssnext-loader": "^1.0.1",
     "jsx-loader": "^0.13.2",
     "node-libs-browser": "^0.5.2",
     "react": "^0.13.3",
